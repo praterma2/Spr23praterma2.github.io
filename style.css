@@ -25,3 +25,15 @@ body{
     border-radius: 12px;
     border-color: lightblue;
 }
+
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+header{
+    text-align: center;
+}
